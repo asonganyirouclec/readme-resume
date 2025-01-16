@@ -1,2 +1,9 @@
-# readme-resume
-This is Asonganyi Rouclec's Resume on a github README file
+## Asonganyi Rouclec
+# Fullstack Developer - Iknite Studio
+
+I am a fullstack developer at Iknite studio with 3 years of development experience
+
+- This is the first item
+- This is the second item
+
+
